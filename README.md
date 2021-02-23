@@ -2,10 +2,6 @@
 
 I'm Ruud. 
 
-🎫 I’m the co-founder of [TicketSwap](https://www.ticketswap.com).
-
-📫 How to reach me:
-
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ruudk)
 
 ---
