@@ -2,7 +2,7 @@
 
 I'm Ruud.
  
-### :zap: Recent Activity
+### :zap: Recent Open Source Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#30](https://github.com/phpstan/extension-installer/pull/30) in [phpstan/extension-installer](https://github.com/phpstan/extension-installer)
