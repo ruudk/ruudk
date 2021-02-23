@@ -1,10 +1,4 @@
-### Hi there 👋
-
-I'm Ruud. 
-
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ruudk)
-
----
+### Hi there, I'm Ruud 👋
 
 ### :zap: Recent Activity
 
