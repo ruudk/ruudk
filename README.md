@@ -26,7 +26,3 @@ I'm Ruud.
 19. ❗️ Opened issue [#4574](https://github.com/phpstan/phpstan/issues/4574) in [phpstan/phpstan](https://github.com/phpstan/phpstan)
 20. ❗️ Opened issue [#5502](https://github.com/FriendsOfPHP/PHP-CS-Fixer/issues/5502) in [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 <!--END_SECTION:activity-->
-
----
-
-![github stats](https://github-readme-stats.vercel.app/api?username=ruudk&count_private=1)
