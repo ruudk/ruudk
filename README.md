@@ -1,8 +1,8 @@
 ### Hi there, 👋
 
-I'm Ruud.
- 
-### :zap: Recent Open Source Activity
+I'm Ruud. Every now and then I try to [contribute](https://github.com/pulls?q=+is%3Apr+author%3Aruudk+archived%3Afalse+is%3Apublic+) to Open Source projects.
+
+Below you can find some recent Open Source activity:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#248](https://github.com/VincentLanglet/Twig-CS-Fixer/issues/248#issuecomment-2221267458) in [VincentLanglet/Twig-CS-Fixer](https://github.com/VincentLanglet/Twig-CS-Fixer)
