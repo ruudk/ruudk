@@ -2,6 +2,10 @@
 
 I'm Ruud. Every now and then I try to [contribute](https://github.com/pulls?q=+is%3Apr+author%3Aruudk+archived%3Afalse+is%3Apublic+) to Open Source projects.
 
+Currently I'm working on [TwigStan](https://github.com/twigstan), a static analyzer for [Twig](https://twig.symfony.com/) templates powered by [PHPStan](https://phpstan.org/).
+
+If my contributions help you in any way, consider [sponsoring me](https://github.com/sponsors/ruudk). Thanks 😊
+
 Below you can find some recent Open Source activity:
 
 <!--START_SECTION:activity-->
